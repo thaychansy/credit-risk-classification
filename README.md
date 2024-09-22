@@ -42,6 +42,7 @@ The target variable we needed to predict was the `loan_status`, which indicates 
       import pandas as pd
       from pathlib import Path
       from sklearn.metrics import confusion_matrix, classification_report
+      from sklearn.metrics import accuracy_score, precision_score, recall_score
       ```
 
 2. **Load and Prepare Data**:
