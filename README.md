@@ -92,6 +92,9 @@ The target variable we needed to predict was the `loan_status`, which indicates 
 
 7. **Results Interpretation**:
     - Analyze how well the logistic regression model predicts both the `0` (healthy loan) and `1` (high-risk loan) labels based on the confusion matrix.
+  
+   <img width="1000" alt="image" src="https://github.com/user-attachments/assets/0976ea87-800c-459a-84de-87fa24fa9af0">
+
 
 ## Results
 
