@@ -83,7 +83,7 @@ The target variable we needed to predict was the `loan_status`, which indicates 
       cm = confusion_matrix(y_test, predictions)
       cm_df = pd.DataFrame(
           cm, index=["Actual Healthy Loan 0", "Actual High-Risk Loan 1"], 
-          columns=["Predicted Healthy Loan 0", "Predicted High-Risk 1"]
+          columns=["Predicted Healthy Loan 0", "Predicted High-Risk Loan 1"]
       )
       print("Confusion Matrix")
       display(cm_df)
