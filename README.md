@@ -115,3 +115,10 @@ The Logistic Regression model showed strong performance in predicting loan statu
 - **Problem-Specific Consideration**: If the goal is to minimize financial risk, predicting high-risk loans accurately is crucial. The model’s high recall for predicting high-risk loans suggests it is effective in this regard.
 
 Overall, the Logistic Regression model is a reliable choice for predicting loan status. However, depending on the specific needs (e.g., focusing more on minimizing false negatives), further tuning or exploring alternative models may be beneficial.
+
+## Contact
+
+Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
+
+
+Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
