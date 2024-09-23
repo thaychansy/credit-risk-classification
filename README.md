@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter notebook that demonstrates the process of training and evaluating a Logistic Regression model to predict loan status (healthy vs. high-risk) using a dataset of loan data.
 
+## Check out the Credit Risk Prediction Model deployed on the Huggingface Platform: 
+https://huggingface.co/spaces/tchans123/credit_risk_prediction_model
+
 ## Contents
 
 - **Overview of the Analysis**: A description of the machine learning analysis conducted, including the purpose, data, and process.
